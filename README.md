@@ -31,12 +31,12 @@
 
 <h3 align="center">Weather App</h3>
 
-<a href="nathanraym.github.io/frontend-mentor-weather-app/" target="_blank">
+<a href="https://nathanraym.github.io/frontend-mentor-weather-app/" target="_blank">
   <img src="./assets/weather-app-thumb.png" width="100%" alt="Weather App"/>
 </a>
 
 <p align="center">
-  <a href="nathanraym.github.io/frontend-mentor-weather-app/" target="_blank">
+  <a href="https://nathanraym.github.io/frontend-mentor-weather-app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Site-79b8ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://github.com/NathanRayM/frontend-mentor-weather-app.git" target="_blank">
