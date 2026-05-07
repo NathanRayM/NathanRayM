@@ -12,9 +12,9 @@
   <a href="https://x.com/nathanraydev">
     <img src="https://img.shields.io/badge/X-79b8ff?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="./assets/resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-79b8ff?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
+ <a href="./assets/nathan-ray-resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-79b8ff?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">Weather App</h3>
+<h4 align="center">Weather App</h4>
 
 <a href="https://nathanraym.github.io/frontend-mentor-weather-app/" target="_blank">
   <img src="./assets/weather-app-thumb.png" width="100%" alt="Weather App"/>
@@ -52,7 +52,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">Portfolio Website</h3>
+<h4 align="center">Portfolio Website</h4>
 
 <a href="https://nathanray.dev" target="_blank">
   <img src="./assets/portfolio-thumb.png" width="100%" alt="Portfolio Website"/>
@@ -79,7 +79,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">A/B Audio Player</h3>
+<h4 align="center">A/B Audio Player</h4>
 
 <a href="https://nathanraym.github.io/personal-projects/mix-engineer-ab-player/" target="_blank">
   <img src="./assets/audio-player-thumb.png" width="100%" alt="Audio Player"/>
@@ -102,7 +102,7 @@
 
 <td width="50%" valign="top">
 
-<h3 align="center">Task Manager</h3>
+<h4 align="center">Task Manager</h4>
 
 <a href="https://nathanraym.github.io/frontend-mentor-todo-app/" target="_blank">
   <img src="./assets/todo-list-thumb.png" width="100%" alt="Task Manager"/>
