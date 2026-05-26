@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/nathan-ray-github-banner-two.png" alt="Nathan Ray Banner" />
+  <img src="./assets/nathan-ray-banner-three.png" alt="Nathan Ray Banner" />
 </p>
 
 <p align="center">
