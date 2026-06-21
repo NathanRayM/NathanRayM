@@ -12,7 +12,7 @@
   <a href="https://x.com/nathanraydev">
     <img src="https://img.shields.io/badge/X-79b8ff?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
- <a href="./assets/nathan-ray-resume.pdf" target="_blank">
+ <a href="./assets/NathanMcdonoughResume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-79b8ff?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 </p>
@@ -143,6 +143,8 @@
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=js" height="40"/><br/>JavaScript
 </td>
+</table>
+<table align="center">
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=react" height="40"/><br/>React
 </td>
