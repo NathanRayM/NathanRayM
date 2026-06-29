@@ -29,27 +29,26 @@
 
 <td width="50%" valign="top">
 
-<h4 align="center">Weather App</h4>
+<h4 align="center">Sound Cellar Recording</h4>
 
-<a href="https://nathanraym.github.io/frontend-mentor-weather-app/" target="_blank">
-  <img src="./assets/weather-app-thumb.png" width="100%" alt="Weather App"/>
+<a href="https://nathanray.dev" target="_blank">
+  <img src="./assets/sound-cellar-recording-thumb.png" width="100%" alt="Recording-Studio-Website"/>
 </a>
 
 <p align="center">
-  <a href="https://nathanraym.github.io/frontend-mentor-weather-app/" target="_blank">
+  <a href="https://soundcellarrecording.com" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Site-79b8ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://github.com/NathanRayM/frontend-mentor-weather-app.git" target="_blank">
+  <a href="https://github.com/NathanRayM/soundcellar-recording-studio-website.git" target="_blank">
     <img src="https://img.shields.io/badge/Repo-79b8ff?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p>
-<strong>HTML, CSS, JavaScript</strong> — Responsive weather dashboard with dynamic API data, unit conversion, and clean UI design.
+<strong>React.js, CSS, JavaScript, Node.js, Express.js </strong> — Modern recording studio website featuring responsive design, custom audio player, and a clean user-focused experience.
 </p>
 
 </td>
-
 <td width="50%" valign="top">
 
 <h4 align="center">Portfolio Website</h4>
@@ -102,6 +101,30 @@
 
 <td width="50%" valign="top">
 
+<h4 align="center">Weather App</h4>
+
+<a href="https://nathanraym.github.io/frontend-mentor-weather-app/" target="_blank">
+  <img src="./assets/weather-app-thumb.png" width="100%" alt="Weather App"/>
+</a>
+
+<p align="center">
+  <a href="https://nathanraym.github.io/frontend-mentor-weather-app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Site-79b8ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/NathanRayM/frontend-mentor-weather-app.git" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-79b8ff?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+<strong>HTML, CSS, JavaScript</strong> — Responsive weather dashboard with dynamic API data, unit conversion, and clean UI design.
+</p>
+
+</td>
+
+</tr>
+<td width="50%" valign="top">
+
 <h4 align="center">Task Manager</h4>
 
 <a href="https://nathanraym.github.io/frontend-mentor-todo-app/" target="_blank">
@@ -122,6 +145,7 @@
 </p>
 
 </td>
+<tr>
 
 </tr>
 
@@ -143,10 +167,16 @@
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=js" height="40"/><br/>JavaScript
 </td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" height="40"/><br/>React
+</td>
 </table>
 <table align="center">
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" height="40"/><br/>React
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br/>Node.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=expressjs" height="40"/><br/>Express.js
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=git" height="40"/><br/>Git
