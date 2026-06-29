@@ -12,7 +12,7 @@
   <a href="https://x.com/nathanraydev">
     <img src="https://img.shields.io/badge/X-79b8ff?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
- <a href="./assets/NathanMcdonoughResume.pdf" target="_blank">
+ <a href="./assets/nathan-mcdonough-resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-79b8ff?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 </p>
