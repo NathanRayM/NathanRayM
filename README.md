@@ -67,7 +67,7 @@
 </p>
 
 <p>
-<strong>HTML, CSS, JavaScript</strong> — Modern responsive portfolio showcasing projects, accessibility, and clean UI layout.
+<strong>HTML, CSS, JavaScript, Node.js, Express.js</strong> — Modern responsive portfolio showcasing projects, accessibility, and clean UI layout.
 </p>
 
 </td>
