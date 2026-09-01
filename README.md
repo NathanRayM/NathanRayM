@@ -167,10 +167,21 @@
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=js" height="40"/><br/>JavaScript
 </td>
+</table>
+
+<table align="center">
+<tr>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=react" height="40"/><br/>React
 </td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=typescript" height="40"/><br/>typeScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br/>Tailwind
+</td>
 </table>
+
 <table align="center">
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br/>Node.js
@@ -180,9 +191,6 @@
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=git" height="40"/><br/>Git
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github" height="40"/><br/>GitHub
 </td>
 </tr>
 </table>
