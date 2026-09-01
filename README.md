@@ -145,9 +145,6 @@
 </p>
 
 </td>
-<tr>
-
-</tr>
 
 </table>
 
@@ -167,6 +164,7 @@
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=js" height="40"/><br/>JavaScript
 </td>
+</tr>
 </table>
 
 <table align="center">
@@ -180,9 +178,11 @@
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br/>Tailwind
 </td>
+</tr>
 </table>
 
 <table align="center">
+<tr>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br/>Node.js
 </td>
