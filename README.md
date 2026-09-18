@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/nathan-ray-banner-three.png" alt="Nathan Ray Banner" />
+  <img src="./assets/nathan-ray-banner-four.png" alt="Nathan Ray Banner" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 <h4 align="center">Sound Cellar Recording</h4>
 
-<a href="https://nathanray.dev" target="_blank">
+<a href="https://soundcellarrecording.com" target="_blank">
   <img src="./assets/sound-cellar-recording-thumb.png" width="100%" alt="Recording-Studio-Website"/>
 </a>
 
