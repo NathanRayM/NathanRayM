@@ -80,15 +80,15 @@
 
 <h4 align="center">A/B Audio Player</h4>
 
-<a href="https://nathanraym.github.io/personal-projects/mix-engineer-ab-player/" target="_blank">
+<a href="https://nathanraym.github.io/mix-engineer-ab-player/" target="_blank">
   <img src="./assets/audio-player-thumb.png" width="100%" alt="Audio Player"/>
 </a>
 
 <p align="center">
-  <a href="https://nathanraym.github.io/personal-projects/mix-engineer-ab-player/" target="_blank">
+  <a href="https://nathanraym.github.io/mix-engineer-ab-player/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Site-79b8ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://github.com/NathanRayM/personal-projects/tree/main/mix-engineer-ab-player" target="_blank">
+  <a href="https://github.com/NathanRayM/mix-engineer-ab-player.git" target="_blank">
     <img src="https://img.shields.io/badge/Repo-79b8ff?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
